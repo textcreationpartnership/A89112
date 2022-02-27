@@ -1,0 +1,227 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A message to both Houses of Parliament, for a personall treaty with the King, (and his Majesty to come to London,) or treat at Hampton-Court. By the Lord Lowden, the Lord Lauderdale, Sir Charles Erskine, Mr. Hugh Kennedy. and Mr. Robert Barclay, Commissioners from the kingdome of Scotland : subscribed by the said Commissioners, Novemb. 5. 1647. Also a letter from the Army, concerning the propositions to be sent to His Majesty. By the appointment of the General Councell of the Army, subscribed Novemb. 6. 1647. Will: Clerke, secretary. Imprimatur Gilb. Mabbott.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89112</idno>
+            <idno type="STC">Wing M1912</idno>
+            <idno type="STC">Thomason E413_3</idno>
+            <idno type="STC">ESTC R202929</idno>
+            <idno type="EEBO-CITATION">99863053</idno>
+            <idno type="PROQUEST">99863053</idno>
+            <idno type="VID">161265</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89112)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161265)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 65:E413[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A message to both Houses of Parliament, for a personall treaty with the King, (and his Majesty to come to London,) or treat at Hampton-Court. By the Lord Lowden, the Lord Lauderdale, Sir Charles Erskine, Mr. Hugh Kennedy. and Mr. Robert Barclay, Commissioners from the kingdome of Scotland : subscribed by the said Commissioners, Novemb. 5. 1647. Also a letter from the Army, concerning the propositions to be sent to His Majesty. By the appointment of the General Councell of the Army, subscribed Novemb. 6. 1647. Will: Clerke, secretary. Imprimatur Gilb. Mabbott.</title>
+                  <author>Loudoun, John Campbell, Earl of, 1598-1663.</author>
+                  <author>Scotland. Parliament.</author>
+                  <author>England and Wales. Army. Council.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert Ibbitson, in Smithfield,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "No: 7".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Treaties --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161265:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 38 -->
+            <p>A MESSAGE TO Both Houſes of Parliament, for a perſo<g ref="char:EOLhyphen"/>nall <hi>Treaty with the King, (and his Majeſty to</hi> come to <hi>London,</hi>) or Treat at <hi>Hampton-Court.</hi>
+            </p>
+            <p>By the Lord <hi>Lowden,</hi> the Lord <hi>Lauderdale,</hi> Sir <hi>Charles Erskine,</hi> Mr. <hi>Hugh Kennedy,</hi> and Mr. <hi>Robert Barclay,</hi> Commiſ<g ref="char:EOLhyphen"/>ſioners from the Kingdome of <hi>Scotland:</hi> Subſcribed by the ſaid Commiſſioners, <hi>Novemb.</hi> 5. 1647.</p>
+            <p>Alſo a Letter from the Army, concerning the Propoſiti<g ref="char:EOLhyphen"/>ons to be ſent to His <hi>Majeſty.</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>BY the appointment of the General Councell of the Army,</p>
+                        <closer>
+                           <dateline>
+                              <date>Novemb. 6. 1647.</date>
+                           </dateline>
+                           <signed>Subſcribed
+<hi>Will. Clerke,</hi>Secretary.</signed>
+                        </closer>
+                        <postscript>
+                           <p>Imprimatur</p>
+                           <closer>
+                              <signed>Gilb. Mabbott.</signed>
+                           </closer>
+                        </postscript>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <figure>
+               <head>C R</head>
+               <q>HONI SOIT QVI MAL Y PENSE</q>
+               <q>DIEV ET MON DROIT</q>
+               <figDesc>royal blazon as printer's device</figDesc>
+            </figure>
+            <p>
+               <hi>London,</hi> Printed by <hi>Robert Ibbitſon,</hi> in <hi>Smithfield,</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:161265:2"/>
+            <!-- PDF PAGE 39 -->
+            <pb n="1" facs="tcp:161265:2"/>
+            <!-- PDF PAGE 39 -->
+            <head>A LETTER FROM THE ARMY <hi>Concerning</hi> The Propoſitions to be ſent to His <hi>MAJESTIE.</hi>
+            </head>
+            <opener>
+               <salute>Mr. Speaker,</salute>
+            </opener>
+            <p>WHereas it is generally reported that the Houſe was induced to make another addreſſe to the King, by Propoſitions, by reaſon it was repre<g ref="char:EOLhyphen"/>ſented to the Houſe as the Deſire of the Army. From a tenderneſſe to the priviledges of Parliamentary actings,
+<pb n="2" facs="tcp:161265:3"/>
+               <!-- PDF PAGE 40 -->this Night the Generall Councell of the Army, declared, that any ſuch Re<g ref="char:EOLhyphen"/>preſentation of their Deſires, was altogether groundleſſe: And that they earneſtly deſire no ſuch conſideration may be admitted in the Houſes Reſo<g ref="char:EOLhyphen"/>lutions in that particular.</p>
+            <closer>
+               <dateline>Putney <date>Novem. 5. 1647.</date>
+               </dateline>
+               <signed>Signed By the appointment of the Generall Councell of the Army. <hi>William Clerke,</hi> Secretary.</signed>
+            </closer>
+            <trailer>For the honourable <hi>William Lenthall</hi> 
+               <abbr>Eſq</abbr> Speaker of the ho<g ref="char:EOLhyphen"/>nourable Houſe of <hi>Commons.</hi>
+            </trailer>
+         </div>
+         <div type="letter">
+            <head>A Meſſage to both Houſes of Parliament for a perſonall Treaty with the King, and His Majeſty to come to London, or Treat at Hampton-Court.</head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>AS upon the removal of his <hi>Majesty</hi> from <hi>Holdenby,</hi> againſt his will, by a party of
+<pb n="3" facs="tcp:161265:3"/>
+               <!-- PDF PAGE 40 -->the Army under the command of Sir <hi>Thomas Fairfax,</hi> we expreſſed our ſence &amp; the reſent<g ref="char:EOLhyphen"/>ment of the Kingdom of <hi>Scotland</hi> of that vio<g ref="char:EOLhyphen"/>lent action, ſo the Committee of Eſtates of the Parlament of <hi>Scotland,</hi> finding that his <hi>Majeſty</hi> is ſtill kept within the power of that Army, thought themſelves obliged to endeavour to know the certainty of His condition, in obe<g ref="char:EOLhyphen"/>dience to their commands, we have apply<g ref="char:EOLhyphen"/>ed our ſelves to His <hi>Majeſty,</hi> that from him<g ref="char:EOLhyphen"/>ſelfe we might know the truth thereof, who was pleaſed to ſhew us his uſage, ever ſince Hee came from <hi>New-caſtle,</hi> but for His preſent condition Hee really confeſſeth He cannot, but referres us to know it, from the two Houſes of Parliament, and the Ar<g ref="char:EOLhyphen"/>my.</p>
+            <p>Both Houſes (by many Profeſſions, and engagements) have declared to the Kingdom of <hi>Scotland</hi> that they would take care of the preſervation of His perſon, His juſt power and greatneſſe, (which both Kingdomes have ſworne not to diminiſh,) and the Par<g ref="char:EOLhyphen"/>liament of <hi>Scotland</hi> upon the <hi>Kings</hi> going to <hi>Holdenby,</hi> did declare againſt all harme, pre<g ref="char:EOLhyphen"/>judice,
+<pb n="2" facs="tcp:161265:4"/>
+               <!-- PDF PAGE 41 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="3" facs="tcp:161265:4"/>
+               <!-- PDF PAGE 41 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:161265:5"/>
+               <!-- PDF PAGE 42 -->injury, or violence to be don to his roy<g ref="char:EOLunhyphen"/>all perſon, Therefore in purſuance of the truſt committed to us, we make this addreſſe to the Honourable Houſes, conceiving it need<g ref="char:EOLhyphen"/>leſſe to apply our ſelves to the Army, who we ſuppoſe are &amp; ought to be under their com<g ref="char:EOLhyphen"/>mand, deſiring to know from them the cer<g ref="char:EOLhyphen"/>tainty of His <hi>Majeſties</hi> condition: &amp; the rather that we are informed, there are intentions in the Army of the removing him from <hi>Hamp<g ref="char:EOLhyphen"/>ton-Court.</hi>
+            </p>
+            <p>The Kingdome of <hi>Scotland</hi> finding that their ſtability, and happineſſe doth ſo much depend upon the ſafety and preſervation of His <hi>Majeſties</hi> Royall perſon, And being re<g ref="char:EOLhyphen"/>ſolved that no alteration of affaires ſhall ever ſeperate them from that duty Allegiance they owe unto him, nor from their conſtant re<g ref="char:EOLhyphen"/>ſolution to live in all loyalty and obedience under His Government, have often ſhewne their earneſt deſires, and contributed their utmoſt endeavours, towards the compo<g ref="char:EOLhyphen"/>ſure of theſe unhappy differences. And the Houſes of Parliament having by their Votes of the 26th. of <hi>October</hi> laſt intimated to us
+<pb n="5" facs="tcp:161265:5"/>
+               <!-- PDF PAGE 42 -->their reſolutions to apply themſelves to His <hi>Majeſty,</hi> and that they are preparing Propo<g ref="char:EOLhyphen"/>ſitions to be tendred to Him; We doe deſire that they may be expedited and communi<g ref="char:EOLhyphen"/>cated to us; that according to our many en<g ref="char:EOLhyphen"/>gagements and relations there may be ſtill a conjunction of Councells, in thoſe things that are for the Common peace and joynt intereſts of both Kingdomes.</p>
+            <p>And for the better aſſerting of them, for clear<g ref="char:EOLhyphen"/>ing His <hi>Majeſties</hi> doubts, and for the giving, and receiving mutuall ſatisfaction: We doe deſire (in the name of the Kingdome of <hi>Scot<g ref="char:EOLhyphen"/>land</hi>) that there may be a perſonall Treaty with His <hi>Majeſty,</hi> as the beſt and readieſt meanes to obtaine the joynt deſires of both Kingdomes; And for that effect, that the King may be invited to come for <hi>London,</hi> with that honour, freedome, and reſpect due to His <hi>Majeſty,</hi> or (at leaſt) remaine at <hi>Hamp<g ref="char:EOLhyphen"/>ton-Court,</hi> and not be under the power, and conſtraint of Souldiers, where both King<g ref="char:EOLhyphen"/>domes may make their free applications to Him without any danger of ſuch ſtop, or af<g ref="char:EOLhyphen"/>front as hath been already committed againſt
+<pb n="6" facs="tcp:161265:6"/>
+               <!-- PDF PAGE 43 -->a Commiſſioner of <hi>Scotland:</hi> And for which no reparation hath beene yet made, and that His <hi>Majeſty</hi> be no more carried about with the Army at their pleaſures.</p>
+            <p>Theſe we conceive to be the moſt pro<g ref="char:EOLhyphen"/>bable and effectuall meanes for attaining an happy peace, ſettling of Religion, reſtoring His <hi>Majeſty</hi> to <hi>His</hi> juſt Rights, and continu<g ref="char:EOLhyphen"/>ing, and ſtrengthening, a good underſtand<g ref="char:EOLhyphen"/>ing betwixt theſe Kingdomes, which are moſt earneſtly deſired by the Kingdome of <hi>Scotland,</hi> And ſhall be conſtantly and faith<g ref="char:EOLhyphen"/>fully endeavoured by</p>
+            <closer>
+               <signed>Your Lordſhips humble ſervants. 
+<list>
+                     <item>Lowden,</item>
+                     <item>Lauderdaill,</item>
+                     <item>Charles Erskine,</item>
+                     <item>Hugh Kennedy,</item>
+                     <item>Robert Barclay,</item>
+                  </list>
+               </signed>
+               <dateline>Worceſter Houſe <date>the 5. of Novem. 1647.</date>
+               </dateline>
+            </closer>
+            <trailer>For the Right Honorable the Speaker of the Houſe of Peeres <hi>pro tempore.</hi>
+            </trailer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:161265:6" rendition="simple:additions"/>
+            <!-- PDF PAGE 43 -->
+         </div>
+      </body>
+   </text>
+</TEI>
